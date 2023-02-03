@@ -1,0 +1,41 @@
+.heading{
+    margin: 0px;
+    box-shadow: 3px 3px 3px grey;
+    font-weight: bold;
+    width: 75%;
+    margin-top: 20px;
+    border-radius: 20px;
+    font-size: x-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+.note{
+    color: black;
+}
+.copy_right_footer{
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+    background-color: grey;
+    color: whitesmoke;
+    position: fixed;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+canvas{
+    border-color: orange;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px yellow;
+    margin-left: 300px;
+    
+}
+
+video{
+    margin-top: 130px;
+    margin-left: 300px;
+}
+
+
